@@ -4,5 +4,8 @@ This repo is used to show a basic model training with source to image.
 
 This includes:
 
-- [training](train.py)
-- [model serving](app.py)
+- [training](train)
+- [model serving](serve)
+
+## Links
+- https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
